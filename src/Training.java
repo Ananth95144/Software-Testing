@@ -2,8 +2,7 @@ import java.util.*;
 
 public class Training {
 	public static void main(String[] args) {
-		int num =64	;
-		
+		int num =64	;	
 		
 	}
 }

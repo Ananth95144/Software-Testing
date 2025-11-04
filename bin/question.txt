@@ -1,0 +1,22 @@
+132 
+214
+680
+238
+54
+91
+73 
+48
+56. Merge Intervals
+79. Word Search
+49. Group Anagrams
+242. Valid Anagram
+
+DecimalToBinaryManual
+BinaryToDecimalManual
+Validate a password
+binary search
+Check balanced parentheses 
+Array rotation
+Armstrong / Perfect / Strong number checks
+
+
